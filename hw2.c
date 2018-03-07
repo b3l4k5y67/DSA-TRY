@@ -2,7 +2,8 @@
 
 int main(){
 printf("Hello HW2!\n");
-printf("yayaya");
+rintf("yayaya");
+printf("dev dev");
 
 return 0;
 }
